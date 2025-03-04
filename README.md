@@ -5,7 +5,7 @@ I'm a Computer Science student at Southern Utah University, passionate about sof
 
 ## 🔥 Skills & Technologies
 - **Programming Languages:** Python, JavaScript, SQL, HTML/CSS
-- **Technologies & Tools:** Pandas, NumPy, Git, GitHub, Postgres DataBase, mySQL, Valentina Studio, MySQLWorkbench
+- **Technologies & Tools:** Pandas, NumPy, Flask, Git, GitHub, Postgres DataBase, mySQL, Valentina Studio, MySQLWorkbench
 - **Concepts:** Object-Oriented Programming (OOP), Data Structure and Algoritm, Data Engineering, Machine Learning, Web Development
 
 ## 📚 Current Projects
