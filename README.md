@@ -39,8 +39,9 @@ Alongside that, I am condicting a research on **digital twins in healthcare**, e
 </div>
 
 ## 📚 Current Projects
-- **Human Digital Twin Research:** Conducting undergraduate research on digital twins in healthcare, building anomaly detection models with deep learning and genetic algorithms to improve patient monitoring.
-- **Cinema Management Application:** Creating a backend system with Spring Boot and PostgreSQL, featuring database schema design, reservation and scheduling logic, and integration of secure payment workflows.
+- **Human Digital Twin Research:** Conducting undergraduate research on digital twins in healthcare, building anomaly detection models with deep learning and genetic algorithms to improve patient monitoring.  
+[Repository](https://github.com/matiashadjadj/human-digital-twin-health-monitoring)
+- **Cinema Management Application:** Creating a backend system with Django and PostgreSQL, featuring database schema design, reservation and scheduling logic, and integration of secure payment workflows.
 
 ## 🌱 Learning & Growth
 I'm currently strengthening my expertise in **backend development** with **Spring Boot**, **SQL databases**, and **system design**.
